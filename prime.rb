@@ -7,5 +7,4 @@ def prime?(number)
       (number%value == 0 && value != number)
     }
   end
-
 end
