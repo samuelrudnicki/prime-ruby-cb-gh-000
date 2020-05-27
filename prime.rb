@@ -4,4 +4,3 @@ def prime?(number)
     (number%value == 0 && value != number) || number<2
   }
 end
-  
